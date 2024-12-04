@@ -5,5 +5,5 @@ This project utilizes a simple Convolutional Neural Network (CNN) to raise aware
 
 The flat image dataset used for this project was sourced from [Dataset Ninja's Road Vehicle project](https://datasetninja.com/road-vehicle).
 
-## Who to use
+## How to use
 
