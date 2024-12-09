@@ -7,7 +7,7 @@ The flat image dataset used for this project was sourced from [Dataset Ninja's R
 
 ## Usage Instructions
 1. Download the previously mentioned dataset;
-2. Extract all the images and save them in a folder named "flat_img" inside the same folder of this project;
+2. Extract all the images from the folder "road-vehicle-DatasetNinja.tar\train\img" and save them in a folder named "flat_img" inside the same folder of this project;
 3. Create a folder named "Dataset" inside the same folder of this project;
 4. Run the script `DrugSimulatorDataset.py`;
 5. Once the script has finished executing, place the images you want the neural network to recognize in the `output_img_distorted` folder.
